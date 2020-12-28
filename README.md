@@ -7,7 +7,7 @@ Cryptocurrency wallet written in flutter. Supported on **Android**, **iOS** and 
 Rename the folder to `bitsbull_app`
 
 `cd bitsbull_app && flutter create .`
-`flutter run`
+`flutter pub get`
 
 ### Run
 `flutter run`
